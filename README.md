@@ -53,13 +53,6 @@ Welcome to **Dental**! This project is a comprehensive dental website template c
 
 ---
 
-
-## 📝 License
-
-Distributed under the OFL-1.1 License. See `OFL.txt` for more information.
-
----
-
 ## 📞 Contact
 
 Project Link: [OCC Internship](https://github.com/Soham0902/OCC_Internship)
