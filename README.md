@@ -6,7 +6,7 @@ Welcome to **Dental**! This project is a comprehensive dental website template c
 
 ## 📜 Overview
 
-** Dental ** is a fully responsive and feature-rich template designed for dental clinics. The website includes various sections such as services, team members, appointment booking, and contact information, providing a complete solution for a dental practice’s online presence.
+**Dental** is a fully responsive and feature-rich template designed for dental clinics. The website includes various sections such as services, team members, appointment booking, and contact information, providing a complete solution for a dental practice’s online presence.
 
 ### Key Features
 
